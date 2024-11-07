@@ -12,13 +12,9 @@ A Python script to download all videos from a YouTube playlist with a progress b
 ## Prerequisites
 
 - **Python 3.7+**: [Download Python](https://www.python.org/downloads/)
+- **Install Certificate command**: you can google it.
+- **Setup and Activate `venv`**: you can google it.
 - **yt-dlp**: Installed via `pip`.
 - **tqdm**: Installed via `pip`.
 
-## Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+and finally run `download.py`
