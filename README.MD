@@ -18,3 +18,5 @@ A Python script to download all videos from a YouTube playlist with a progress b
 - **tqdm**: Installed via `pip`.
 
 and finally run `download.py`
+# YouTube audio Downloader
+Used to extract the audio from youtube video
